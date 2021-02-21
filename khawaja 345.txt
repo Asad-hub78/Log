@@ -1,0 +1,3 @@
+1. Validate when I write product name and brand name on seach browser, upon click the search button i should be redirected to relevant page.
+2. Validate when I click on sale & offers, Home & Furniture and other features available on the home page, I should be redirected to the relevant page.
+3. Validate when I click on Men's, Women and other available features, I should be shown all the relevant products and associated sale items and percentage of sale on selected item.    
